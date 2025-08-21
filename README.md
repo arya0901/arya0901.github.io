@@ -32,7 +32,6 @@
     <h2>Education</h2>
     <ul>
       <li><strong>Bachelor of Engineering</strong> - Electronics & Communication<br>
-      <li>Gujarat Technological University
     </ul>
   </section>
 
