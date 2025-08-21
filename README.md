@@ -31,7 +31,7 @@
   <section id="education" class="education">
     <h2>Education</h2>
     <ul>
-      <li><strong>Bachelor of Engineering</strong> - Electronics & Communication<br>Gujarat Technological University</li>
+      <li><strong>Bachelor of Engineering</strong> - Electronics & Communication<br><li>Gujarat Technological University</li>
     </ul>
   </section>
 
